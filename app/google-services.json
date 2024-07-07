@@ -12,7 +12,20 @@
           "package_name": "id.sttbandung.practice12"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "1018357571138-rddddmkgth78vkmhijrsjvq8ud4r21du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.sttbandung.practice12",
+            "certificate_hash": "795ccc6515e3eb0a1feefdf68ab6e69237318f79"
+          }
+        },
+        {
+          "client_id": "1018357571138-v1lftvghaml8pmvbln0s3tjnk4o0bjho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBPWg_DuKL4asrDdNzk3_k1jAoC7p_uUxw"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018357571138-v1lftvghaml8pmvbln0s3tjnk4o0bjho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

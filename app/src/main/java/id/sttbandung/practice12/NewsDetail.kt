@@ -4,6 +4,7 @@ package id.sttbandung.practice12
 import android.content.Intent
 import android.os.Bundle
 import android.util.Log
+import android.view.Menu
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
@@ -80,6 +81,11 @@ class NewsDetail : AppCompatActivity() {
                     }
             }
         }
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.menu_main, menu)
+        return true
     }
 
 }

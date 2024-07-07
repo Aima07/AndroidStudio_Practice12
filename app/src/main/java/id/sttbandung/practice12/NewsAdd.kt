@@ -10,6 +10,7 @@ import android.app.ProgressDialog;
 import android.content.Intent;
 import android.net.Uri;
 import android.util.Log;
+import android.view.Menu
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
@@ -180,5 +181,10 @@ class NewsAdd : AppCompatActivity() {
                     Log.w("NewsAdd", "Error adding document", e)
                 }
         }
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.menu_main, menu)
+        return true
     }
 }

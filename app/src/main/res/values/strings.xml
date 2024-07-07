@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Practice12</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="default_web_client_id">1018357571138-v1lftvghaml8pmvbln0s3tjnk4o0bjho.apps.googleusercontent.com</string>
 </resources>
