@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018357571138",
+    "project_id": "practicenur-6aeba",
+    "storage_bucket": "practicenur-6aeba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018357571138:android:9219b5c8ce49e8ed0f57db",
+        "android_client_info": {
+          "package_name": "id.sttbandung.practice12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPWg_DuKL4asrDdNzk3_k1jAoC7p_uUxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
